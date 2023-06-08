@@ -1,8 +1,8 @@
 Automate push task of alx from terminal to github
 
-first you need to clone your repo by using token and config name and email\n
-	git clone https://{Token}@github.com/<username>/<repo.git>\n
-	git config --global user.name "<name>"\n
+first you need to clone your repo by using token and config name and email
+	git clone https://{Token}@github.com/<username>/<repo.git>
+	git config --global user.name "<name>"
 	git config --global user.email "<email>"
 
 before use this script make sure the python3 package installed on your terminal
